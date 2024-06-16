@@ -1,0 +1,101 @@
+@import "./variables.module.scss";
+@import "./breakpoints.scss";
+
+// components/Footer.scss
+
+.footer {
+  background-color: #f9dfef;
+  color: black;
+  padding: 20px 0;
+  font-family: Arial, sans-serif;
+
+  &__container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+
+  &__column {
+    flex: 1;
+    min-width: 200px;
+    padding: 0 15px;
+    margin-bottom: 20px;
+
+    h4 {
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 10px;
+
+        a {
+          color: black;
+          text-decoration: none;
+          transition: color 0.3s;
+
+          &:hover {
+            color: #ff6347;
+          }
+        }
+      }
+    }
+  }
+
+  &__social-links {
+    display: flex;
+    gap: 10px;
+
+    a {
+      img {
+        width: 30px;
+        height: 30px;
+        transition: transform 0.3s;
+
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+    }
+  }
+
+  &__bottom-row {
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  &__legal-links {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+    a {
+      color: #aaa;
+      text-decoration: none;
+
+      &:hover {
+        color: #ff6347;
+      }
+    }
+  }
+}
