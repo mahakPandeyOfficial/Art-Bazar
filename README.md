@@ -134,22 +134,28 @@ For any inquiries or feedback, please reach out to:
 ## ScreenShots: 
 
 ## Register Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/6fac9d01-89dd-4c0d-86f9-056d3cd8a69b)
+![Screenshot 2024-06-13 065236](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/5498331e-f8e0-426f-8245-d738ade54c17)
+
 
 ## Login Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/f4d22a13-3fa7-4808-901e-050b7ae96a11)
+![Screenshot 2024-06-13 065310](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/05537dc9-c53c-4d21-95ed-0f3e1bc7e58e)
+
 
 ## Home Page After Login
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/bfe1611e-62ba-4595-a611-3f8fc7f26d79)
+![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/7c99fe84-4803-41be-adf6-34db46df4716)
+
 
 ## Sell You Art Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/9a7493b9-a173-492d-a007-f3661aafecaa)
+![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/5248bc84-fe0e-4b37-b455-65ed4a1589d1)
+
 
 ## Work-Detail Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/b5c44ae5-01f4-411a-815d-81ed8ef4afbc)
+![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/e372654c-2ef7-4221-b8a4-0d8fcf515812)
 
 ## Wishlist Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/eda900f1-cd9f-4326-a121-8bfbb382e9be)
+![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/4113e612-1c93-46c8-b835-443e2e2f64f6)
+
 
 ## Cart Page
-![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/c23bb8b2-16f8-4f02-bed2-6e174b254231)
+![image](https://github.com/mahakPandeyOfficial/Art-Bazar/assets/116765334/fff13288-1f41-43c1-8645-880167bcadc6)
+
